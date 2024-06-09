@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **AWS & DSA**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Experience is the name everyone gives to their mistakes.**
 
  </div>
  
