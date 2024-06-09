@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **AWS & DSA**
 
-⚡ Fun fact **Experience is the name everyone gives to their mistakes.**
+⚡ Fun fact **In order to be irreplaceable, one must always be different.**
 
  </div>
  
