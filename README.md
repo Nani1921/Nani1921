@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently Persuing my B.tech **Vingnan's University**
+ 🔭 I’m currently Persuing my B.tech in **Vingnan's University**
  
- 🌱 I’m currently learning **AWS**
+ 🌱 I’m currently learning **AWS & DSA**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
