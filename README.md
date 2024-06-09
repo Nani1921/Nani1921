@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,springboot" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,spring" />
     <img src="https://skillicons.dev/icons?i=python,javascript,c,java,mysql," /><br>
 </div>
 
@@ -47,7 +47,7 @@
 
 
 <hr/>
-
+<!--
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
@@ -56,6 +56,13 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-Nani1921.vercel.app/api/top-langs/?username=Nani1921&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+-->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nani1921&show_icons=true&locale=en&layout=compact" alt="nani1921" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nani1921&show_icons=true&locale=en" alt="nani1921" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nani1921&" alt="nani1921" /></p>
 
 <br/><br/>
 
