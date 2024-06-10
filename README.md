@@ -11,7 +11,7 @@
 <div align="left">
 <img align="right" alt="Coding" width="320" height="200" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
  
- 🔭 I’m currently Persuing my B.tech in **Vignan's University**
+ 🔭 I’m currently Persuing my B.tech at **Vignan's University**
  
  🌱 I’m currently learning **AWS & DSA**
 
