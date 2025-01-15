@@ -13,7 +13,7 @@
  
  🔭 I’m currently Persuing my B.tech at **Vignan's University**
  
- 🌱 I’m currently learning **AWS & DSA**
+ 🌱 I’m currently learning **MERN STACK & DSA**
 
  📫 How to reach me **ramireddy1203@gmail.com**
 
